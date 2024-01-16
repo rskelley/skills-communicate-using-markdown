@@ -11,3 +11,7 @@
 def do_stuff():
   return "I did stuff"
 ```
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
